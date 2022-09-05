@@ -9,4 +9,6 @@ Introduction to Processing, a lesson developed during the Summer Methods course
 ### Link to the GitHub lesson: 
 https://github.com/hunter-teacher-cert/cohort-3-summer-work-DrydenArt/blob/master/methods/11_lessons/lesson00/00_Intro_Processing.md
 
-
+## NY CS Standards:
+### 4-6.CT.1 Computational Thinking, Standard 1, 
+Prior to this lesson, students engage in an activity (Steps in Making a PBJ) that allow them to begin to think about how to write directions, test them and then modify/improve them.  This is an important simulation activity that for computational thinking. 
