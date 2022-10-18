@@ -1,6 +1,6 @@
 # Assignment:  How does HTML control websites?
 **Description:**
-In this assignment, students will use X-Ray Goggles to look behind a website to discover how HTML is controlling what is visible to the user.  This assignment is introduced early in the unit to enable students to recognize the role HTML plays in web design.  Once students install Mozilla X-Ray Goggles and have some time to test out how it works, students will work in pairs to make their own "hacked" site using an existing website.  
+In this assignment, students will use X-Ray Goggles to look behind a website to discover how HTML is controlling what is visible to the user.  This assignment is introduced early in the unit to enable students to recognize the role HTML plays in web design.  Once students install Mozilla X-Ray Goggles and have some time to test out how it works, students will work in pairs to make their own "hacked" site using an existing website. Resources/credits: https://mozilla.github.io/mozilla-club-activity-hack-the-news/#
 
 **Objectives:**
 Students will use Xray Goggles to explore how HTML contols webpages
@@ -29,10 +29,17 @@ How does HTML control websites?<br>
 - How did you test predictions on how to change things not yet introduced in class? 
 
 **Activity:**
-- Pair programming:  Hack a news page and publish to Google Classroom
+Pair programming:  
+- Hack a news page with a partner.
 - Together, decide on a news webpage that uses a lot of HTML to remix, or "hack"
 - Choose a theme to use when remixing
 - Resources: [Creative Commons](https://creativecommons.org/use-remix/), [Openverse](https://wordpress.org/openverse/?referrer=creativecommons.org)
 - Examples provided:  NYT, Tompkins Weekly, NPR
+- Publish finished page to Google Classroom
 
-- 
+**Discussion:**
+- How much does HTML control websites?
+- How easy is it to modify content on a website?
+- Do you think there are any ethical implications of this exercise? 
+
+**Credits:** https://mozilla.github.io/mozilla-club-activity-hack-the-news/#
