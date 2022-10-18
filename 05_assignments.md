@@ -1,15 +1,10 @@
-# Assignment:  How does HTML control websites?
+# Assignment 01:  How does HTML control websites?
 **Description:**
-In this assignment, students will use X-Ray Goggles to look behind a website to discover how HTML is controlling what is visible to the user.  This assignment is introduced early in the unit to enable students to recognize the role HTML plays in web design.  Once students install Mozilla X-Ray Goggles and have some time to test out how it works, students will work in pairs to make their own "hacked" site using an existing website. Resources/credits: https://mozilla.github.io/mozilla-club-activity-hack-the-news/#
+In this assignment, students will use X-Ray Goggles to look behind a website to discover how HTML is controlling what is visible to the user.  This assignment is introduced early in the unit to enable students to recognize the role HTML plays in web design.  Once students install Mozilla X-Ray Goggles and have some time to test out how it works, students will work in pairs to make their own "hacked" site using an existing website. 
 
 **Objectives:**
 Students will use Xray Goggles to explore how HTML contols webpages
 Students will test their predictions of how to modify page elements 
-Students will develop their own "hacked" site.
-
-Develop two assignments that are different types for your unit plan.
-Describe the assignment, including student facing instructions in a markdown file. Save this file in your own personal work repository.
-This is individual work, that can be incorperated into your unit plan later.
 
 # Student Facing Instructions
 **Warm Up Question:**<br>
@@ -27,6 +22,19 @@ How does HTML control websites?<br>
 - What HTML syntax did you notice when editing text?
 - How was that syntax different with editing other elements (images, paragraphs, etc.)?
 - How did you test predictions on how to change things not yet introduced in class? 
+
+# Assignment 02:  How can I use Xray Goggles to hack the news? 
+**Description:**
+In this assignment, students will work in pairs to remix or hack a news website using Mozilla X-ray Goggles.  
+
+**Objectives:**
+Students will develop their own "hacked" site
+Students will consider how HTML controls websites
+Students may consider how easily content can be edited and if this has any ethical implications
+
+# Student Facing Instructions
+**Warm Up Question:**<br>
+How does HTML control websites?<br>
 
 **Activity:**
 Pair programming:  
