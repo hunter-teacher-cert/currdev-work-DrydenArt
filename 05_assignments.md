@@ -7,7 +7,7 @@ In this assignment, students will use X-Ray Goggles to look behind a website to 
 - Students will test their predictions of how to modify page elements 
 
 # Student Facing Instructions
-**Warm Up Question:**
+**Warm Up Question:**<br>
 How does HTML control websites?<br>
 
 **Activity:**
@@ -34,7 +34,7 @@ In this assignment, students will work in pairs to remix or hack a news website 
 
 # Student Facing Instructions
 **Warm Up Question:**<br>
-How does HTML control websites?<br>
+Can websites tell lies?<br>
 
 **Activity:**
 Pair programming:  
