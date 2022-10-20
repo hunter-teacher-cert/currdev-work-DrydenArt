@@ -28,9 +28,9 @@ How does HTML control websites?<br>
 In this assignment, students will work in pairs to remix or hack a news website using Mozilla X-ray Goggles.  
 
 **Objectives:**
-Students will develop their own "hacked" site
-Students will consider how HTML controls websites
-Students may consider how easily content can be edited and if this has any ethical implications
+-Students will develop their own "hacked" site
+-Students will consider how HTML controls websites
+-Students may consider how easily content can be edited and if this has any ethical implications
 
 # Student Facing Instructions
 **Warm Up Question:**<br>
