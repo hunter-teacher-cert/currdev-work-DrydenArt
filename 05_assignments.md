@@ -3,11 +3,11 @@
 In this assignment, students will use X-Ray Goggles to look behind a website to discover how HTML is controlling what is visible to the user.  This assignment is introduced early in the unit to enable students to recognize the role HTML plays in web design.  Once students install Mozilla X-Ray Goggles and have some time to test out how it works, students will work in pairs to make their own "hacked" site using an existing website. 
 
 **Objectives:**
--Students will use Xray Goggles to explore how HTML contols webpages
--Students will test their predictions of how to modify page elements 
+- Students will use Xray Goggles to explore how HTML contols webpages
+- Students will test their predictions of how to modify page elements 
 
 # Student Facing Instructions
-**Warm Up Question:**<br>
+**Warm Up Question:**
 How does HTML control websites?<br>
 
 **Activity:**
@@ -25,12 +25,12 @@ How does HTML control websites?<br>
 
 # Assignment 02:  How can I use Xray Goggles to hack the news? 
 **Description:**
-In this assignment, students will work in pairs to remix or hack a news website using Mozilla X-ray Goggles.  
+In this assignment, students will work in pairs to remix or hack a news website using Mozilla X-ray Goggles.  Their news site should establish a theme and strive to trick the viewer at first glance.  Conversations about ethics will arise and discussed throughout. Studnets will save or screenshot thier hacked site and upload to Google Classroom. 
 
 **Objectives:**
--Students will develop their own "hacked" site
--Students will consider how HTML controls websites
--Students may consider how easily content can be edited and if this has any ethical implications
+- Students will develop their own "hacked" site
+- Students will consider how HTML controls websites
+- Students may consider how easily content can be edited and if this has any ethical implications
 
 # Student Facing Instructions
 **Warm Up Question:**<br>
